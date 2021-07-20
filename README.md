@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Luccin Masirika</h1>
-<h3 align="center">A passionate frontend developer from Congo</h3>
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luccin243&label=Profile%20views&color=0e75b6&style=flat" alt="luccin243" /> </p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luccin243" alt="luccin243" /></a> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=luccin243.luccin243)
 
-<p align="left"> <a href="https://twitter.com/luccinmasirika" target="blank"><img src="https://img.shields.io/twitter/follow/luccinmasirika?logo=twitter&style=for-the-badge" alt="luccinmasirika" /></a> </p>
+</p>
+<div size='20px'> Hi! My name is Luccin Masirika. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on MERN Stack Dev
+
+- 🌱 I’m currently learning NodeJs, ReactJs and Rust 
+
+- 👯 I’m looking to collaborate on Projects, Tech Leader, Mentor 
+
+- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
 
 - 🌱 I’m currently learning **Nodejs and Rust**
-
-- 💬 Ask me about **Reactjs, Nodejs and MongoDb**
 
 - 📫 How to reach me **luccinmasirika@gmail.com**
 
