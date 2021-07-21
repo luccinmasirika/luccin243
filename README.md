@@ -45,3 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&locale=en" alt="luccin243" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" alt="luccin243" /></p>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&theme=radical)
