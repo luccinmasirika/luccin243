@@ -16,13 +16,11 @@
 
 - 🔭 I’m currently working on MERN Stack Dev
 
-- 🌱 I’m currently learning NodeJs, ReactJs and Rust 
+- 🌱 I’m currently learning **NodeJs, ReactJs** and **Rust**
 
-- 👯 I’m looking to collaborate on Projects, Tech Leader, Mentor 
+- 👯 I’m looking to collaborate on **Projects, Tech Leader, Mentor**
 
-- 💬 Talk to me about JavaScript, Freelancing Opportunites, Open Source 
-
-- 🌱 I’m currently learning **Nodejs and Rust**
+- 💬 Talk to me about **JavaScript, Freelancing Opportunites, Open Source** 
 
 - 📫 How to reach me **luccinmasirika@gmail.com**
 
