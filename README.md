@@ -1,8 +1,10 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+<h1 align="center">Hi 👋, I'm Luccin Masirika</h1>
+<h3 align="center">A passionate frontend developer from Congo</h3>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luccin243&label=Profile%20views&color=0e75b6&style=flat" alt="luccin243" /> </p>
+
+<p align="left"> <a href="https://twitter.com/luccinmasirika" target="blank"><img src="https://img.shields.io/twitter/follow/luccinmasirika?logo=twitter&style=for-the-badge" alt="luccinmasirika" /></a> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=luccin243.luccin243)
 
