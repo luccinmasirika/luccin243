@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/luccinmasirika" target="blank"><img src="https://img.shields.io/twitter/follow/luccinmasirika?logo=twitter&style=for-the-badge" alt="luccinmasirika" /></a> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=luccin243.luccin243)
-
 </p>
 
 
