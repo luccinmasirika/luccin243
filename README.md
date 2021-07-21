@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ReactJs** and **Rust**
 
-- 👯 I’m looking to collaborate on **Projects, Tech Leader, Mentor**
+- 👯 I’m looking to collaborate on **Projectsr**
 
 - 💬 Talk to me about **JavaScript, Freelancing Opportunites, Open Source** 
 
