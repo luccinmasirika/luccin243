@@ -17,7 +17,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/luccin243/tic-tac-toe"><b>Tic Tac Toe</b></a></td>
+      <td><a href="https://github.com/luccin243/tic-tac-toe"><b>Tic Tac Toe ( Jeu de morpion )</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/tic-tac-toe?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/tic-tac-toe?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/tic-tac-toe?style=flat-square&labelColor=343b41"/></td>
