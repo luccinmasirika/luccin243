@@ -1,6 +1,6 @@
 <img width="100%" height = "auto" src="https://i.imgur.com/9de2Ow0.jpg" alt="cover" />
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=000000&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="luccin243" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&color=095294FF&size=46&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Luccin+Masirika" alt="luccin243" /></h1>
 
 <h5 align="center"><em>A passionate frontend developer from Congo</em></h5>
 
