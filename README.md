@@ -23,6 +23,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/food-delivrery?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/luccin243/building-wakanda"><b>Simple website</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/building-wakanda?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -33,9 +40,9 @@
 <img width="35%" align="right" alt="Github" src="https://i.imgur.com/9gj3NBS.png" />
 
 
-- 🔭 I’m currently working on MERN Stack Dev
+- 🔭 I’m currently working on **NextJs and NodeJs** applications
 
-- 🌱 I’m currently learning **NodeJs, ReactJs** and **Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Projects**
 
