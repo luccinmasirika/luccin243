@@ -54,6 +54,9 @@
 
 
 <h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/luccinmasirika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccinmasirika" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 <a href="https://twitter.com/luccinmasirika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luccinmasirika" height="30" width="40" /></a>
@@ -72,6 +75,4 @@
 
 <br/>
 
-<p align="left" display="flex"><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" alt="luccin243" /></p>
-
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" style="width:350px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" style="width:350px" alt="luccin243" /></p>
