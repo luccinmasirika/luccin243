@@ -69,4 +69,4 @@
 
 <br/>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" style="width:350px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" style="width:350px" alt="luccin243" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" style="width:370px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" style="width:370px" alt="luccin243" /></p>
