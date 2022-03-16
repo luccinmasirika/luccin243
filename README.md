@@ -72,10 +72,6 @@
 
 <br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" /></p>
-
-<br/>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" alt="luccin243" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=luccin243&show_icons=true&count_private=true" alt="luccin243" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luccin243&" alt="luccin243" /></p>
 
 
