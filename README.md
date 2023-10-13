@@ -16,19 +16,19 @@
     </tr>
   </thead>
   <tbody>
+    <tr> 
+      <td><a href="https://github.com/luccin243/mui-nextjs-ts-starter-kit"><b>Updev Community</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/luccin243/mui-nextjs-ts-starter-kit"><b>MUI Nextjs Typescript Starter kit</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/luccin243/mui-nextjs-ts-starter-kit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr> 
-      <td><a href="https://github.com/luccin243/mui-nextjs-ts-starter-kit"><b>Updev Community</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/UPTODATE-DEV/updevcommunity-frontend?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/luccin243/food-delivrery"><b>Food Delivrery App</b></a></td>
